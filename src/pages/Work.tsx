@@ -7,21 +7,21 @@ const Work = () => {
     {
       name: "Madupushpa Company Website",
       link: "https://www.madhupushpatechnologies.com/",
-      image: "/madhupushpa.png",
+      image: "/madhupushpa.PNG",
       description: " Madhupushpa Technologies are  detailed in the available sources, the company is registered under the category of Human resources provision and management of human resources functions . This suggests that the company may be involved in HR services, staffing solutions, or related activities..",
       technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", ]
     },    
     {
       name: "Real Estate Website",
       link: "https://www.nammaswadeshirealty.in/",
-      image: "/nammaswadeshi.png",
+      image: "/nammaswadeshi.PNG",
       description: "Real Estate Website its related the like Home,Sites,land etc.",
       technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
     },
     {
       name: "Kayaka Crafts",
       link: "https://kayakacrafts.com/",
-      image: "/kayaka.png",
+      image: "/kayaka.PNG",
       description: "KayakaCrafts.com is an online store selling handmade Indian crafts like Kolhapuri chappals, Bidri art, and Kinnal toys. It's run by Madhupushpa Technologies in Bangalore.",
       technologies: ["React.js", "Vite", "Bootstrap","mongodb","node.js","express.js" ],
     },
