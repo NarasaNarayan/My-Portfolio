@@ -12,7 +12,7 @@ const Hero = () => {
             <div className="relative h-[300px] w-[280px] md:h-[360px] md:w-[320px]">
               <Image
                 alt="Headshot of sudarshan"
-                src="/Lakshminarasa.photo.jpg"
+                src="/myimage1.jpeg"
                 width={1067}
                 height={1067}
                 className="absolute z-10 h-[280px] w-[240px] border-8 border-gray max-md:left-5 md:left-0 md:top-0 md:h-[320px] md:w-[280px]"
